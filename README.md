@@ -29,7 +29,7 @@ A House Rocket é uma empresa que realiza investimentos no mercado imobiliário.
   - Heroku Cloud 
 
 ### 2.2 Produto Final
-   - [Página Web](https://alan-cechin-projeto-houses.herokuapp.com) contendo:
+   - [Página Web](https://alancechin-web-app-house-rocket-analysis-projeto-hr-3adlpf.streamlit.app/) contendo:
       
       - Visualização dos 5 principais insights;
       
@@ -234,7 +234,7 @@ Os dados para esse projeto foram coletados na plataforma do Kaggle: https://www.
       - 29% dos imóveis vendidos ocorrem no verão.
       - 59% dos imóveis vendidos ocorrem no verão ou primavera.
 
-**OBS:** Na [aplicação Web](https://alan-cechin-projeto-houses.herokuapp.com) os insights são mais aprofundados por meio de gráficos e outras análises.
+**OBS:** Na [aplicação Web](https://alancechin-web-app-house-rocket-analysis-projeto-hr-3adlpf.streamlit.app/) os insights são mais aprofundados por meio de gráficos e outras análises.
 
 ## 7. Planejamento da Solução
 
@@ -275,7 +275,7 @@ Considerando todos os imóveis recomendados como compra para o investimento:
 
 ## 9. Conclusão
 
-Os objetivos almejados inicialmente foram cumpridos no que tange a lista de recomendações de imóveis para compra, bem como, a projeção do valor de venda desses imóveis. Além disso, conseguiu-se obter 5 principais insights da base de dados estudada e por fim, tudo isso foi colocado em uma [aplicação na nuvem](https://alan-cechin-projeto-houses.herokuapp.com) o que facilita o acesso as análises. 
+Os objetivos almejados inicialmente foram cumpridos no que tange a lista de recomendações de imóveis para compra, bem como, a projeção do valor de venda desses imóveis. Além disso, conseguiu-se obter 5 principais insights da base de dados estudada e por fim, tudo isso foi colocado em uma [aplicação na nuvem](https://alancechin-web-app-house-rocket-analysis-projeto-hr-3adlpf.streamlit.app/) o que facilita o acesso as análises. 
 
 Sobre os resultados encontrados, pode-se perceber bastante influência do atributo área construída (área interna) do imóvel no preço, dessa forma, buscou-se retirar seu impacto ao comparar outros atributos com o preço para que assim, a análise não ficasse enviesada.
 
