@@ -101,7 +101,7 @@ Os dados para esse projeto foram coletados na plataforma do Kaggle: https://www.
 | sqft_livining15 | Tamanho (em pés quadrado) do espaço interno de habitação para os 15 vizinhos mais próximo |
 |   sqft_lot15    | Tamanho (em pés quadrado) dos terrenos dos 15 vizinhos mais próximo |
 
-### 4.1 Detalhamento atributos de origem
+### 4.2 Detalhamento atributos de origem
 
 - waterfront:
     - 0 = não 
@@ -136,7 +136,7 @@ Os dados para esse projeto foram coletados na plataforma do Kaggle: https://www.
     - 13: Geralmente concebidos e construídos à medida. Nível de mansão. Grande quantidade de trabalho de armário da mais alta qualidade, acabamentos em madeira, mármore, formas de entrada, etc.
 
 
-### 4.2 Fontes
+### 4.3 Fontes
 
 - [https://www.slideshare.net/PawanShivhare1/predicting-king-county-house-prices](https://www.slideshare.net/PawanShivhare1/predicting-king-county-house-prices)
 
@@ -145,7 +145,7 @@ Os dados para esse projeto foram coletados na plataforma do Kaggle: https://www.
 - [https://geodacenter.github.io/data-and-lab//KingCounty-HouseSales2015/](https://geodacenter.github.io/data-and-lab//KingCounty-HouseSales2015/)
 
 
-### 4.3 Atributos criados
+### 4.4 Atributos criados
 
 |    Atributos    |                         Definição                            |
 | :-------------: | :----------------------------------------------------------: |
@@ -163,7 +163,7 @@ Os dados para esse projeto foram coletados na plataforma do Kaggle: https://www.
 |  price_per_m2_living_outside |   Preço do imóvel por metro quadrado de área construída + área externa   |
 
 
-### 4.4 Detalhamento atributos criados
+### 4.5 Detalhamento atributos criados
 
 
 - seasons:
